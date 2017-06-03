@@ -1,0 +1,7 @@
+main: com.reilly910.supplyquests.SupplyQuests
+name: SupplyQuests
+version: 1.0
+commands:
+    quest:
+      description: Opens quest gui
+    
